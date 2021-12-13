@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/pistol"/>
+    <qresource prefix="/">
+        <file>img/M1911.png</file>
+        <file>img/glock_17.png</file>
+        <file>img/desert_eagle.png</file>
+    </qresource>
+</RCC>
